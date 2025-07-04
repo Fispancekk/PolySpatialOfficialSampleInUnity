@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CADisableMinimumFrameDuration</key>
+    <false />
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <false />
+    <key>CFBundleAllowMixedLocalizations</key>
+    <true />
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>visionOSTestv3Jun30</string>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleIdentifier</key>
+    <string>${PRODUCT_BUNDLE_IDENTIFIER}</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>${PRODUCT_NAME}</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>0</string>
+    <key>UIApplicationSceneManifest</key>
+    <dict>
+      <key>UIApplicationPreferredDefaultSceneSessionRole</key>
+      <string>UISceneSessionRoleImmersiveSpaceApplication</string>
+      <key>UIApplicationSupportsMultipleScenes</key>
+      <true />
+      <key>UISceneConfigurations</key>
+      <dict>
+        <key>UISceneSessionRoleImmersiveSpaceApplication</key>
+        <array>
+          <dict>
+            <key>UISceneConfigurationName</key>
+            <string>Unbounded</string>
+            <key>UISceneInitialImmersionStyle</key>
+            <string>UIImmersionStyleMixed</string>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+    <key>UIPrerenderedIcon</key>
+    <false />
+    <key>UIRequiresPersistentWiFi</key>
+    <false />
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleDefault</string>
+    <key>Unity_LoadingActivityIndicatorStyle</key>
+    <integer>-1</integer>
+    <key>NSHandsTrackingUsageDescription</key>
+    <string>Hands Tracking Input</string>
+    <key>NSWorldSensingUsageDescription</key>
+    <string>MR World Sensing</string>
+  </dict>
+</plist>
