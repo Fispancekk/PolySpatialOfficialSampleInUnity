@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/ProjectLauncher.unity
+    guid: 8b8b8ea8b8131004382443fe7d26cba7
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/BalloonGallery.unity
+    guid: 4c268b318e1821b4f8da83f415cac049
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/CharacterWalker.unity
+    guid: ac4639d906f05074eab3cd0068afbf9b
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/ImageTracking.unity
+    guid: fa1b05869d02c2c44941fbd777088126
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/InputDataVisualization.unity
+    guid: 75f1bad34defd4c1cb72f9582141573c
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/Manipulation.unity
+    guid: fb95a2aeaf07045218ea81669afb9cc3
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/Manipulation_XRI.unity
+    guid: 139d55bb8d7b3fd4bbfbefe95464cc7f
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/Meshing.unity
+    guid: 294dd2730251a4021a900b103e4d66a9
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/MixedReality.unity
+    guid: 4062257bd31be4dc980c3241c72cef79
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/Portal.unity
+    guid: 9d91b5b5cbdbd408f9a2270b1957525e
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/SpatialUI.unity
+    guid: 6f4448466bfd94eed8847ae973dbc228
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/SwiftUI.unity
+    guid: 727a10c1c46544e3a8066e0487821ef3
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/UGUI.unity
+    guid: d72075298b31349d2a5927cab3229b4b
+  - enabled: 1
+    path: Assets/Samples/PolySpatial/Scenes/XRIDebug.unity
+    guid: 725f8fea08f4ce54383e9a326229d07d
+  m_configObjects:
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: ecd185d3342ec42d58e8e577b4a974ce,
+      type: 2}
+    com.unity.polyspatial.xr.xr_settings: {fileID: 11400000, guid: 360f477a8b86b49febe961b9f25a6c5d,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3639f7f1a1ecb47f0bae98b4a2d23512,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c1afe89b1f27144a187fbe67eb7284c7,
+      type: 2}
